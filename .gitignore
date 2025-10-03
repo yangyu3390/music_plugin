@@ -44,5 +44,7 @@ Builds/MacOSX/Info-Standalone_Plugin.plist
 Builds/MacOSX/Info-VST3.plist
 Builds/MacOSX/RecentFilesMenuTemplate.nib
 Builds/MacOSX/music_plugin.xcodeproj/project.pbxproj
+Builds
+JuceLibraryCode
 JUCE
 JUCE
